@@ -34,6 +34,11 @@
 
 ## 使用教程
 
+
+
+
+11111111
+
 1. [按照这个教程进行 reposync](backup/reposync.md)
 2. 再在`Settings`-`Secrets`里面添加`JD_COOKIE`
 3. 多条 cookie 用`&`隔开，支持无数条 cookie
